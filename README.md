@@ -1,4 +1,4 @@
-# LexiCam ROI Autocrop
+# LexiCam's Camera Search
 
 _Developed between 2021 and 2023; revisited in 2026._
 
